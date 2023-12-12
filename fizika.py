@@ -10,6 +10,7 @@ elif k==2:
 elif k==3:
     v=int(input("Kérem a sebességet m/s-ban."))
     t=int(input("Kérem az időt mp-ben")) 
+    print("A megtett út=",v*t)
 
 
     
